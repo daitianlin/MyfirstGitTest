@@ -3,3 +3,4 @@ git is free software undre the GPL.
 git tracks changes of files.
 git is study for me on now.
 my first branch dev.
+Creating a new branch is quick And simple
