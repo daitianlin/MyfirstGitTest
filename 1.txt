@@ -4,4 +4,4 @@ git tracks changes of files.
 git is study for me on now.
 my first branch dev.
 Creating a new branch is quick And simple
-Creating a new branch is quick & simple.
+Creating a new branch is quick And simple.
